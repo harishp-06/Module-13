@@ -59,6 +59,11 @@ print("postfix notation: ",infixToPostfix(expression))
 
 ### OUTPUT
 
+![image](https://github.com/user-attachments/assets/12579ba2-8b29-4089-a0c0-77302054a994)
+
 
 ### RESULT
+
+Thus the python program to convert infix to postfix expression has been implemented and executed successfully.
+
 
